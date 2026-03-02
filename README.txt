@@ -1,0 +1,1 @@
+This is a skin disease detection program 
